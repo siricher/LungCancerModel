@@ -1,2 +1,2 @@
 # LungCancerModels
-Lumiere publication code
+Publication code
